@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Sahil Kumar 👋</h1>
 <h3 align="center">
-Machine Learning Engineer | AI Engineer | Data Scientist  
+Software Development Engineer | AI, Machine Learning & Deep Learning Engineer | Data Scientist
 </h3>
-
 <p align="center">
 Building scalable ML systems, AI agents, and real-world data-driven solutions
 </p>
