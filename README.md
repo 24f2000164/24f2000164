@@ -1,8 +1,43 @@
- # 💫 About Me:
-I’m currently working on<br><br>Machine Learning system design and interview preparation (Microsoft-style depth)<br><br>ML projects involving recommendation systems, NLP, and data pipelines<br><br>FPGA-based communication systems (FM/AM transmitter using Spartan-7)<br><br>Research-oriented projects combining Signal Processing with Machine Learning<br><br>👯 I’m looking to collaborate on<br><br>Open-source Machine Learning / Data Science projects<br><br>System design for ML (end-to-end pipelines, MLOps, scalable architectures)<br><br>AI + Electronics projects (signal processing, embedded ML, FPGA + ML)<br><br>Research-focused projects in applied ML or ML for real-world systems<br><br>🤝 I’m looking for help with<br><br>Advanced ML system design and large-scale architecture patterns<br><br>Improving model efficiency (latency, memory, deployment constraints)<br><br>Research exposure and guidance in Signal Processing + ML<br><br>Best practices in MLOps, DVC, experiment tracking, and deployment<br><br>🌱 I’m currently learning<br><br>Advanced Machine Learning & Deep Learning<br><br>System Design for ML Engineers<br><br>Large Language Models (LLMs), Transformers, fine-tuning, and LangChain<br><br>MLOps tools (DVC, versioning, pipelines)<br><br>FPGA-based digital communication systems<br><br>💬 Ask me about<br><br>Machine Learning fundamentals & interview preparation<br><br>Recommendation systems, feature engineering, and embeddings<br><br>Python, Data Structures, and Data Science workflows<br><br>Signal Processing basics and its integration with ML<br><br>FPGA-based projects and digital communication concepts<br><br>⚡ Fun fact<br><br>I’m pursuing two degrees simultaneously (ECE + Data Science) and actively merging electronics with AI to solve real-world problems 🚀
+ #  About Me:
+### Currently working on
+
+- End-to-end ML system design and interview preparation (Microsoft-level depth)
+- Large-scale recommendation systems, NLP pipelines, and feature engineering
+- Agent-based AI systems and Retrieval-Augmented Generation (RAG) architectures
+- Research-oriented work combining Signal Processing with Machine Learning
+### Looking to collaborate on
+
+- Open-source Machine Learning and Data Science projects
+- End-to-end ML system design, MLOps, and production pipelines
+- AI system development (agents, RAG, LLM-based applications)
+- Applied ML research focused on real-world, scalable software systems
+### Looking for help with
+
+- Designing and optimizing large-scale ML architectures
+- Improving model efficiency (latency, memory footprint, inference cost)
+- Production-grade ML deployment and scalability challenges
+- MLOps best practices (experiment tracking, data/model versioning, CI/CD)
+### Currently learning
+
+- Advanced Machine Learning & Deep Learning
+- ML system design and scalable architectures
+- Large Language Models (LLMs), Transformers, fine-tuning, and LangChain
+- MLOps tools and production workflows
+### Ask me about
+
+- Machine Learning fundamentals and interview preparation
+- Recommendation systems, embeddings, and feature engineering
+- Python, data analysis, and ML workflows
+- Signal Processing concepts applied to ML systems
+- Building and scaling real-world ML applications
 
 
-## 🌐 Socials:
+### Fun fact
+
+- Pursuing **ECE + Data Science** simultaneously and focused on bridging **core engineering with modern AI systems** 🚀
+
+
+## 🌐Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-kumar-1645a3324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvLC0PapbRqOkpX3GZyRTJA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:24f2000164@ds.study.iitm.ac.in) 
 
 # 💻 Tech Stack:
