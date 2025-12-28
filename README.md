@@ -8,37 +8,44 @@ Building scalable ML systems, AI agents, and real-world data-driven solutions
 </p>
 
 ---
-### Currently working on
+### 🔭 Currently working on
+- **End-to-end ML system design** and interview preparation (Microsoft-level depth)
+- **Large-scale recommendation systems**, NLP pipelines, and feature engineering
+- **Agent-based AI systems** and **Retrieval-Augmented Generation (RAG)** architectures
+- Research-oriented work combining **Signal Processing** with **Machine Learning**
 
-- End-to-end ML system design and interview preparation (Microsoft-level depth)
-- Large-scale recommendation systems, NLP pipelines, and feature engineering
-- Agent-based AI systems and Retrieval-Augmented Generation (RAG) architectures
-- Research-oriented work combining Signal Processing with Machine Learning
-### Looking to collaborate on
+---
 
-- Open-source Machine Learning and Data Science projects
-- End-to-end ML system design, MLOps, and production pipelines
-- AI system development (agents, RAG, LLM-based applications)
-- Applied ML research focused on real-world, scalable software systems
-### Looking for help with
+### 👯 Looking to collaborate on
+- **Open-source Machine Learning and Data Science** projects
+- **End-to-end ML system design**, **MLOps**, and production pipelines
+- **AI system development** (agents, RAG, LLM-based applications)
+- Applied ML research for **real-world, scalable software systems**
 
-- Designing and optimizing large-scale ML architectures
-- Improving model efficiency (latency, memory footprint, inference cost)
-- Production-grade ML deployment and scalability challenges
-- MLOps best practices (experiment tracking, data/model versioning, CI/CD)
-### Currently learning
+---
 
-- Advanced Machine Learning & Deep Learning
-- ML system design and scalable architectures
-- Large Language Models (LLMs), Transformers, fine-tuning, and LangChain
-- MLOps tools and production workflows
-### Ask me about
+### 🤝 Looking for help with
+- Designing and optimizing **large-scale ML architectures**
+- Improving **model efficiency** (latency, memory footprint, inference cost)
+- **Production-grade ML deployment** and scalability challenges
+- **MLOps best practices** (experiment tracking, data/model versioning, CI/CD)
 
-- Machine Learning fundamentals and interview preparation
-- Recommendation systems, embeddings, and feature engineering
-- Python, data analysis, and ML workflows
-- Signal Processing concepts applied to ML systems
-- Building and scaling real-world ML applications
+---
+
+### 🌱 Currently learning
+- **Advanced Machine Learning & Deep Learning**
+- **ML system design** and scalable architectures
+- **Large Language Models (LLMs)**, **Transformers**, fine-tuning, and **LangChain**
+- **MLOps tools** and production workflows
+
+---
+
+### 💬 Ask me about
+- **Machine Learning fundamentals** & interview preparation
+- **Recommendation systems**, embeddings, and feature engineering
+- **Python**, data analysis, and ML workflows
+- **Signal Processing** concepts applied to ML systems
+- **Building and scaling real-world ML applications**
 
 
 ### Fun fact
