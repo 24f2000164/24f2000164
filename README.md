@@ -83,7 +83,7 @@
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-kumar-1645a3324)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:24f2000164@ds.study.iitm.ac.in)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kumarsahil9767@gmail.com)
 
 ---
 
