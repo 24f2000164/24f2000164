@@ -1,114 +1,53 @@
-<h1 align="center">Hi, I'm Sahil Kumar 👋</h1>
-<h3 align="center">
-Software Development Engineer | AI, Machine Learning & Deep Learning Engineer | Data Scientist
-</h3>
-<p align="center">
-Building scalable ML systems, AI agents, and real-world data-driven solutions
-</p>
+# Sahil Kumar — Software Engineer · AI & Backend Systems
 
----
-### 🔭 Currently working on
-- **End-to-end ML system design** and interview preparation (**Microsoft-level depth**)
-- **Large-scale recommendation systems**, **NLP pipelines**, and **feature engineering**
-- **Agent-based AI systems** and **Retrieval-Augmented Generation (RAG)** architectures
-- **Backend services and APIs** for **ML-powered applications**
-- Research-oriented work combining **Signal Processing** with **Machine Learning**
+> Advanced Application Engineer Analyst @ Accenture | 
+> Building RAG pipelines, Agentic AI systems, and scalable backend services
 
 ---
 
-### 👯 Looking to collaborate on
-- **Open-source Machine Learning and Data Science** projects
-- **Backend and distributed systems** for **AI-driven products**
-- **End-to-end ML system design**, **MLOps**, and **production pipelines**
-- **AI system development** (agents, RAG, **LLM-based applications**)
-- Applied ML research for **real-world, scalable software systems**
+## What I build
+
+- Production RAG pipelines and Agentic AI systems (LangChain · ChromaDB · Amazon Bedrock)
+- Scalable backend services and REST APIs (FastAPI · Docker · AWS)
+- LLM integrations with Hugging Face and Foundation Models
+- Full-stack applications (Flask · Vue.js · Redis · Celery)
 
 ---
 
-### 🤝 Looking for help with
-- Designing and optimizing **large-scale ML and software architectures**
-- Improving **model and system efficiency** (**latency**, **memory footprint**, **inference cost**)
-- **Backend scalability**, **API design**, and **system reliability**
-- **Production-grade ML deployment**, **CI/CD**, and **observability**
-- **MLOps best practices** (**experiment tracking**, **data/model versioning**)
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
-### 🌱 Currently learning
-- **Advanced Machine Learning & Deep Learning**
-- **ML system design** and **backend scalability patterns**
-- **Large Language Models (LLMs)**, **Transformers**, **fine-tuning**, and **LangChain**
-- **Software engineering best practices** (**clean code**, **testing**, **design patterns**)
-- **MLOps tools** and **production workflows**
+## Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [Agentic RAG Research Assistant](https://github.com/24f2000164/RAG_Research_assistant) | FastAPI · LangChain · ChromaDB · Docker | Production RAG pipeline with agent-based reasoning and semantic search |
+| [Placement Portal](https://github.com/24f2000164/Placement-Portal-Application) | Flask · Vue.js · Redis · Celery · JWT | Full-stack placement system with ATS screening and async workflows |
 
 ---
 
-### 💬 Ask me about
-- **Machine Learning fundamentals** & **interview preparation**
-- **Software engineering fundamentals** (**data structures**, **APIs**, **system design**)
-- **Recommendation systems**, **embeddings**, and **feature engineering**
-- **Python**, **backend development**, and **ML workflows**
-- **Building, scaling, and deploying production AI systems**
+## Stats
 
-### Fun fact
+![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=flat&logo=leetcode)
+![Accenture](https://img.shields.io/badge/Accenture-AI%20Applications-purple?style=flat)
+![IIT Madras](https://img.shields.io/badge/IIT%20Madras-BS%20Data%20Science-blue?style=flat)
 
-- Pursuing **ECE + Data Science** simultaneously and focused on bridging **core engineering with modern AI systems** 🚀
-## 🌐Socials:
-<p>
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.kaggle.com/f2000164" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
-</a>
-</p>
-# 💻 Tech Stack:
+---
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![MLflow](https://img.shields.io/badge/mlflow-%3D9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
- 
+## Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-kumar-1645a3324)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:24f2000164@ds.study.iitm.ac.in)
 
+---
 
-
-
-
+*Open to: Software Engineer · Backend Engineer · AI Engineer · Agentic AI Engineer roles in India*
 
